@@ -1,0 +1,16 @@
+{
+  "name": "devops-project",
+  "version": "1.0.0",
+  "description": "Node.js project deploy on Docker container",
+  "license": "ISC",
+  "author": "sumeetrawal3@gmail.com",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
