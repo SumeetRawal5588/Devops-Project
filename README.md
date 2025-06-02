@@ -63,4 +63,4 @@ git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/SumeetRawal5588/Devops-Project.git
 git push -u origin main
-(#Automate trigger job is running properly as expected in jenkins .)
+(# checking Automate trigger job is running properly as expected in jenkins for azure .)
